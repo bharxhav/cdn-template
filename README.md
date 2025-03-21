@@ -8,7 +8,7 @@ A template repo to create personal cdn.
 
 Do this completely on github.
 
-1. Clone the repo.
+1. Fork/Use the repo template.
 2. Allow github actions write access:
    - Settings > Actions > General > Workflow permissions > Read and write permissions
 
