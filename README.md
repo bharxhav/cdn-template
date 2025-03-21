@@ -25,4 +25,6 @@ E.g. [Vercel](https://vercel.com/) or [Cloudflare Pages](https://pages.cloudflar
 1. Delete the `./github/workflows/static.yml` file.
 2. Follow instructions on your pages provider.
 
+---
+
 Under [its-ours](https://its-ours.org/) license.
